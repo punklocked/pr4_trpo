@@ -12,3 +12,8 @@ body {
     text-decoration: none;
     color: gold;
 }
+
+#lorem {
+    font-size: 30px;
+    color: red;
+}
